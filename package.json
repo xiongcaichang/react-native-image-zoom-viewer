@@ -60,8 +60,6 @@
     "url": "git+https://github.com/ascoders/react-native-image-viewer.git"
   },
   "scripts": {
-    "prepare": "rm -rf built && tsc",
-    "start": "tsc -w --outDir demo/built"
   },
   "types": "src/index.ts",
   "version": "2.2.3"
